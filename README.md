@@ -21,3 +21,36 @@ python -m backend.app.eval
 
 ## Tests
 pytest
+Raw Documents
+     │
+     ▼
+Data Ingestion
+     │
+     ▼
+Processed Dataset (JSONL)
+     │
+     ▼
+Indexing Pipeline
+ ├─ BM25 Index
+ └─ Vector Embeddings
+     │
+     ▼
+Hybrid Search Engine
+     │
+     ▼
+FastAPI Search API
+     │
+     ▼
+Streamlit Dashboard
+
+---
+
+## Features
+
+- Hybrid search combining lexical and semantic scoring
+- FastAPI REST API for search
+- Streamlit dashboard interface
+- Evaluation metrics (Recall@10, nDCG@10, MRR@10)
+- Break/Fix debugging scenarios
+- CPU-only deployment
+
