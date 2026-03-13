@@ -1,0 +1,25 @@
+{"query":"hybrid search","relevant":["doc1"]}
+{"query":"bm25 ranking","relevant":["doc2"]}
+{"query":"semantic search","relevant":["doc1"]}
+{"query":"keyword search algorithm","relevant":["doc2"]}
+{"query":"vector embeddings","relevant":["doc1"]}
+{"query":"search engine ranking","relevant":["doc2"]}
+{"query":"hybrid retrieval method","relevant":["doc1"]}
+{"query":"information retrieval bm25","relevant":["doc2"]}
+{"query":"semantic similarity search","relevant":["doc1"]}
+{"query":"search relevance scoring","relevant":["doc2"]}
+{"query":"text search algorithm","relevant":["doc2"]}
+{"query":"vector search engine","relevant":["doc1"]}
+{"query":"hybrid ranking model","relevant":["doc1"]}
+{"query":"bm25 scoring formula","relevant":["doc2"]}
+{"query":"document retrieval system","relevant":["doc2"]}
+{"query":"embedding based search","relevant":["doc1"]}
+{"query":"text similarity search","relevant":["doc1"]}
+{"query":"search engine indexing","relevant":["doc2"]}
+{"query":"information retrieval system","relevant":["doc2"]}
+{"query":"hybrid search engine","relevant":["doc1"]}
+{"query":"semantic text retrieval","relevant":["doc1"]}
+{"query":"bm25 information retrieval","relevant":["doc2"]}
+{"query":"ranking documents search","relevant":["doc2"]}
+{"query":"semantic document search","relevant":["doc1"]}
+{"query":"hybrid retrieval system","relevant":["doc1"]}

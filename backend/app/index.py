@@ -23,7 +23,7 @@ def build_index(docs):
 
     bm25 = BM25Okapi(tokenized)
 
-    model = SentenceTransformer("all-MiniLM-L6-v2")
+    model = SentenceTransformer("all-MiniLM-L12-v2")
 
     embeddings = model.encode([d["text"] for d in docs])
 
