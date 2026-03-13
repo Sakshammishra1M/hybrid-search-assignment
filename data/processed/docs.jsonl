@@ -1,0 +1,2 @@
+{"doc_id": "doc1", "title": "doc1", "text": "CONTENT\nHybrid search combines keyword search with semantic search.", "source": "data/raw\\doc1.txt", "created_at": "2026-03-13T10:15:24.387848"}
+{"doc_id": "doc2", "title": "doc2", "text": "CONTENT\nBM25 is a ranking function used by search engines.", "source": "data/raw\\doc2.txt", "created_at": "2026-03-13T10:15:24.387848"}
