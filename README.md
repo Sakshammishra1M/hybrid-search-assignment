@@ -1,4 +1,3 @@
-# hybrid-search-assignment
 # Hybrid Search + KPI Dashboard
 
 # Demo Video: https://drive.google.com/file/d/1hqG3L9_cgVhtAy5BhFqNpWaFiuKLtI9R/view?usp=drive_link
